@@ -1,5 +1,10 @@
 @charset "UTF-8";
 .logo{
-    width: 150px;
+    width: 100px;
     padding: 10px 0px;
+}
+
+.icon-social-header{
+    width: 25px;
+    margin: 10px 5px;
 }
