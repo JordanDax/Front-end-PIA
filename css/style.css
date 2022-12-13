@@ -1,5 +1,22 @@
 @charset "UTF-8";
+.height-u-d{
+    padding: 100px 0;
+}
+
 .logo{
-    width: 150px;
+    width: 100px;
     padding: 10px 0px;
+}
+
+.icon-social-header{
+    width: 25px;
+    margin: 10px 5px;
+}
+
+.banner-video{
+    background-image: url("/images/thumbnail.jpg");
+    background-color: gray;
+    padding: 500px 0;
+    position: relative;
+    text-align: center;
 }
